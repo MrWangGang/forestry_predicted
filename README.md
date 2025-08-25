@@ -1,2 +1,8 @@
-# forestry_predicted
+# 森林病害预测
 本项目聚焦园林病害动态扩散预测任务，针对园林植物病害（如白粉病、黑斑病、蚜虫侵害等）“时空扩散性强、受环境因素影响显著” 的特点，以历史病害扩散数据（如病害覆盖面积、发病植株数量、扩散速率）与环境协变量（温度、湿度、降水量）为输入，构建长短期记忆网络（LSTM）模型，实现对 “下个时间点（如次日、下周）病害扩散范围” 的定量预测。模型可帮助园林管理者提前预判病害蔓延趋势，制定精准的防控方案（如定向施药、隔离发病区域），减少病害对园林生态与景观价值的破坏，为智慧园林病虫害防治提供技术支撑。
+
+<img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/c694f1d7-922c-4122-8f4e-78251a6096de" />
+
+<img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/f9de493e-285c-45da-a6bb-7e7ab7105b71" />
+
+
